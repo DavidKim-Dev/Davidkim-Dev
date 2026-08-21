@@ -6,7 +6,7 @@ Sou **David Kim**, Desenvolvedor Front-End apaixonado por criar interfaces moder
 
 ## 🎯 Sobre Mim
 
-Sou um desenvolvedor dedicado à excelência no desenvolvimento web, com foco em:
+Sou um profissional especializado em desenvolvimento web, com excelência técnica e atenção aos detalhes, com foco em:
 
 - 🎨 **Design & UX**: Interfaces responsivas e user-centric
 - ⚡ **Performance**: Código otimizado e experiências rápidas
